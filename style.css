@@ -1,0 +1,72 @@
+/* .wrapper{
+    width: 700px;
+    height: 700px;
+    border: 1px solid red;
+    margin: auto;
+}
+
+h1,h4{
+    text-align: center;
+}
+.wrapper{
+    background-image: url(billionphotos1082174min.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-attachment: fixed; */
+    /* background-size: 100% 100%; */
+    /* background-color: aqua; */
+   
+
+/* p{
+    background: rgba(33, 47, 197, 0.835)
+    /* color: red; */
+    /* opacity: 1; */
+    /* opacity:0.;
+
+} */
+
+/* a:active{
+    color: yellow;
+}
+a:hover{
+    color: green;
+} */
+
+/* body{
+    background-image: url(billionphotos1082174min.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+} */
+
+div{
+    width: 600px;
+    height: 700px;
+    /* border: 1px solid black; */
+    margin: auto;
+}
+
+h5,h1{
+    text-align: center;
+    letter-spacing: 10px;
+    line-height: 50px;
+    color: red;
+    font-size: 40px;
+    font-weight: 600;
+    text-decoration:underline;
+}
+
+button{
+    border-radius: 5px;
+    /* border-style: ridge; */
+    border: 5px solid blue;
+    background-color: aqua;
+    color: crimson;
+}
+
+a:hover{
+    color: chartreuse;
+}
+a:active{
+    color: brown;
+}
